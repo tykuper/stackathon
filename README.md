@@ -2,7 +2,7 @@
 
 ## Notes
 
-### Javascript
+### TypeScript
 
 - In javascript, types don't need to be declared and the code is interpreted at runtime. A program and won't catch certain errors until it is run and the browser throws the error.
 
